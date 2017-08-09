@@ -1,0 +1,22 @@
+{
+  "name": "MyFramework",
+  "version": "0.1.0",
+  "summary": "A short description of MyFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rzolin/MyFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rzolin": "rzolin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rzolin/MyFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFramework/Classes/**/*"
+}
