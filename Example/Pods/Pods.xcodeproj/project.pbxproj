@@ -19,20 +19,20 @@
 		11948E16BF3548C7BABF77C532966B84 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EA9E6566FF221100CCEEE3AE7F7FF60 /* XCTest.framework */; };
 		146D2FD2E3B98DA591885219099F2A4A /* SPTCallSite.m in Sources */ = {isa = PBXBuildFile; fileRef = 827940DAD186863374E719CC8D5FCE23 /* SPTCallSite.m */; };
 		150503B99F77D3D8897EFFC68C09A351 /* EXPMatcherHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = C22221B3B6D1F46AB81218794BF7243C /* EXPMatcherHelpers.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		158D67431F3B9CB400CFDBDE /* CoreFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D672F1F3B9CB400CFDBDE /* CoreFile.h */; };
-		158D67441F3B9CB400CFDBDE /* CoreFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67301F3B9CB400CFDBDE /* CoreFile.m */; };
-		158D67451F3B9CB400CFDBDE /* DataFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D67321F3B9CB400CFDBDE /* DataFile.h */; };
-		158D67461F3B9CB400CFDBDE /* DataFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67331F3B9CB400CFDBDE /* DataFile.m */; };
-		158D67471F3B9CB400CFDBDE /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 158D67341F3B9CB400CFDBDE /* Model.xcdatamodeld */; };
-		158D67481F3B9CB400CFDBDE /* DocumentFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D67371F3B9CB400CFDBDE /* DocumentFile.h */; };
-		158D67491F3B9CB400CFDBDE /* DocumentFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67381F3B9CB400CFDBDE /* DocumentFile.m */; };
-		158D674A1F3B9CB400CFDBDE /* NetworkingFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D673A1F3B9CB400CFDBDE /* NetworkingFile.h */; };
-		158D674B1F3B9CB400CFDBDE /* NetworkingFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D673B1F3B9CB400CFDBDE /* NetworkingFile.m */; };
 		158D674C1F3B9CB400CFDBDE /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D673C1F3B9CB400CFDBDE /* ReplaceMe.m */; };
-		158D674D1F3B9CB400CFDBDE /* SecurityFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D673E1F3B9CB400CFDBDE /* SecurityFile.h */; };
-		158D674E1F3B9CB400CFDBDE /* SecurityFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D673F1F3B9CB400CFDBDE /* SecurityFile.m */; };
-		158D674F1F3B9CB400CFDBDE /* UtilsFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D67411F3B9CB400CFDBDE /* UtilsFile.h */; };
-		158D67501F3B9CB400CFDBDE /* UtilsFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67421F3B9CB400CFDBDE /* UtilsFile.m */; };
+		158D678E1F3BA00200CFDBDE /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 158D677C1F3BA00200CFDBDE /* Model.xcdatamodeld */; };
+		158D67951F3BA00200CFDBDE /* UtilsFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D67881F3BA00200CFDBDE /* UtilsFile.h */; };
+		158D67961F3BA00200CFDBDE /* UtilsFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67891F3BA00200CFDBDE /* UtilsFile.m */; };
+		158D67971F3BA00C00CFDBDE /* CoreFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67781F3BA00200CFDBDE /* CoreFile.m */; };
+		158D67981F3BA01400CFDBDE /* DataFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D677B1F3BA00200CFDBDE /* DataFile.m */; };
+		158D67991F3BA01B00CFDBDE /* DocumentFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67801F3BA00200CFDBDE /* DocumentFile.m */; };
+		158D679A1F3BA02100CFDBDE /* NetworkingFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67831F3BA00200CFDBDE /* NetworkingFile.m */; };
+		158D679B1F3BA02800CFDBDE /* SecurityFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 158D67861F3BA00200CFDBDE /* SecurityFile.m */; };
+		158D679D1F3BA21800CFDBDE /* CoreFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D67771F3BA00200CFDBDE /* CoreFile.h */; };
+		158D679E1F3BA21B00CFDBDE /* DataFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D677A1F3BA00200CFDBDE /* DataFile.h */; };
+		158D679F1F3BA22100CFDBDE /* DocumentFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D677F1F3BA00200CFDBDE /* DocumentFile.h */; };
+		158D67A01F3BA22700CFDBDE /* NetworkingFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D67821F3BA00200CFDBDE /* NetworkingFile.h */; };
+		158D67A11F3BA22C00CFDBDE /* SecurityFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 158D67851F3BA00200CFDBDE /* SecurityFile.h */; };
 		19B6B108A674BD810C36A118644862C4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AA3435632E518FBB1B6085FE5AF4B8E /* Foundation.framework */; };
 		1D676445A1446539D4B722E6EF0C802A /* ExpectaSupport.m in Sources */ = {isa = PBXBuildFile; fileRef = 71AF85B6558D634E3F383BA6AAEF3267 /* ExpectaSupport.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		20A2A483CDC911D6DB2EAD12444D1406 /* SPTTestSuite.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC5EEA6B4746F1531DD69BC488E69F4 /* SPTTestSuite.m */; };
@@ -239,20 +239,20 @@
 		0C75DFE8C463E28459A9A9DD7E921822 /* SPTExample.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SPTExample.m; path = Specta/Specta/SPTExample.m; sourceTree = "<group>"; };
 		13ADA67A3888356A684AF338EA9BD6D7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		158CEFBA77071AB835E435120F4CE616 /* EXPMatchers+respondTo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+respondTo.h"; path = "Expecta/Matchers/EXPMatchers+respondTo.h"; sourceTree = "<group>"; };
-		158D672F1F3B9CB400CFDBDE /* CoreFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreFile.h; sourceTree = "<group>"; };
-		158D67301F3B9CB400CFDBDE /* CoreFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreFile.m; sourceTree = "<group>"; };
-		158D67321F3B9CB400CFDBDE /* DataFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataFile.h; sourceTree = "<group>"; };
-		158D67331F3B9CB400CFDBDE /* DataFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataFile.m; sourceTree = "<group>"; };
-		158D67351F3B9CB400CFDBDE /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
-		158D67371F3B9CB400CFDBDE /* DocumentFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocumentFile.h; sourceTree = "<group>"; };
-		158D67381F3B9CB400CFDBDE /* DocumentFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentFile.m; sourceTree = "<group>"; };
-		158D673A1F3B9CB400CFDBDE /* NetworkingFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkingFile.h; sourceTree = "<group>"; };
-		158D673B1F3B9CB400CFDBDE /* NetworkingFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkingFile.m; sourceTree = "<group>"; };
 		158D673C1F3B9CB400CFDBDE /* ReplaceMe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = MyFramework/ReplaceMe.m; sourceTree = "<group>"; };
-		158D673E1F3B9CB400CFDBDE /* SecurityFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecurityFile.h; sourceTree = "<group>"; };
-		158D673F1F3B9CB400CFDBDE /* SecurityFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecurityFile.m; sourceTree = "<group>"; };
-		158D67411F3B9CB400CFDBDE /* UtilsFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UtilsFile.h; sourceTree = "<group>"; };
-		158D67421F3B9CB400CFDBDE /* UtilsFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UtilsFile.m; sourceTree = "<group>"; };
+		158D67771F3BA00200CFDBDE /* CoreFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreFile.h; sourceTree = "<group>"; };
+		158D67781F3BA00200CFDBDE /* CoreFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreFile.m; sourceTree = "<group>"; };
+		158D677A1F3BA00200CFDBDE /* DataFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataFile.h; sourceTree = "<group>"; };
+		158D677B1F3BA00200CFDBDE /* DataFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataFile.m; sourceTree = "<group>"; };
+		158D677D1F3BA00200CFDBDE /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		158D677F1F3BA00200CFDBDE /* DocumentFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocumentFile.h; sourceTree = "<group>"; };
+		158D67801F3BA00200CFDBDE /* DocumentFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentFile.m; sourceTree = "<group>"; };
+		158D67821F3BA00200CFDBDE /* NetworkingFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkingFile.h; sourceTree = "<group>"; };
+		158D67831F3BA00200CFDBDE /* NetworkingFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkingFile.m; sourceTree = "<group>"; };
+		158D67851F3BA00200CFDBDE /* SecurityFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecurityFile.h; sourceTree = "<group>"; };
+		158D67861F3BA00200CFDBDE /* SecurityFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecurityFile.m; sourceTree = "<group>"; };
+		158D67881F3BA00200CFDBDE /* UtilsFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UtilsFile.h; sourceTree = "<group>"; };
+		158D67891F3BA00200CFDBDE /* UtilsFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UtilsFile.m; sourceTree = "<group>"; };
 		15EE63300C3D43B1B92124CD21806E8C /* EXPMatchers+conformTo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+conformTo.h"; path = "Expecta/Matchers/EXPMatchers+conformTo.h"; sourceTree = "<group>"; };
 		15F9AB2173995E9AF3D7647F10735FD6 /* SpectaTypes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SpectaTypes.h; path = Specta/Specta/SpectaTypes.h; sourceTree = "<group>"; };
 		1795ED3D682D8EDC5CEC1EA831BEECEA /* EXPBlockDefinedMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXPBlockDefinedMatcher.h; path = Expecta/EXPBlockDefinedMatcher.h; sourceTree = "<group>"; };
@@ -508,65 +508,73 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		158D672E1F3B9CB400CFDBDE /* Core */ = {
+		158D67751F3BA00200CFDBDE /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				158D672F1F3B9CB400CFDBDE /* CoreFile.h */,
-				158D67301F3B9CB400CFDBDE /* CoreFile.m */,
+				158D67761F3BA00200CFDBDE /* Core */,
+				158D67791F3BA00200CFDBDE /* Data */,
+				158D677E1F3BA00200CFDBDE /* Documents */,
+				158D67811F3BA00200CFDBDE /* Netwroking */,
+				158D67841F3BA00200CFDBDE /* Security */,
+				158D67871F3BA00200CFDBDE /* Utils */,
 			);
-			name = Core;
-			path = MyFramework/Core;
+			name = Classes;
+			path = MyFramework/Classes;
 			sourceTree = "<group>";
 		};
-		158D67311F3B9CB400CFDBDE /* Data */ = {
+		158D67761F3BA00200CFDBDE /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				158D67321F3B9CB400CFDBDE /* DataFile.h */,
-				158D67331F3B9CB400CFDBDE /* DataFile.m */,
-				158D67341F3B9CB400CFDBDE /* Model.xcdatamodeld */,
+				158D67771F3BA00200CFDBDE /* CoreFile.h */,
+				158D67781F3BA00200CFDBDE /* CoreFile.m */,
 			);
-			name = Data;
-			path = MyFramework/Data;
+			path = Core;
 			sourceTree = "<group>";
 		};
-		158D67361F3B9CB400CFDBDE /* Documents */ = {
+		158D67791F3BA00200CFDBDE /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				158D67371F3B9CB400CFDBDE /* DocumentFile.h */,
-				158D67381F3B9CB400CFDBDE /* DocumentFile.m */,
+				158D677A1F3BA00200CFDBDE /* DataFile.h */,
+				158D677B1F3BA00200CFDBDE /* DataFile.m */,
+				158D677C1F3BA00200CFDBDE /* Model.xcdatamodeld */,
 			);
-			name = Documents;
-			path = MyFramework/Documents;
+			path = Data;
 			sourceTree = "<group>";
 		};
-		158D67391F3B9CB400CFDBDE /* Netwroking */ = {
+		158D677E1F3BA00200CFDBDE /* Documents */ = {
 			isa = PBXGroup;
 			children = (
-				158D673A1F3B9CB400CFDBDE /* NetworkingFile.h */,
-				158D673B1F3B9CB400CFDBDE /* NetworkingFile.m */,
+				158D677F1F3BA00200CFDBDE /* DocumentFile.h */,
+				158D67801F3BA00200CFDBDE /* DocumentFile.m */,
 			);
-			name = Netwroking;
-			path = MyFramework/Netwroking;
+			path = Documents;
 			sourceTree = "<group>";
 		};
-		158D673D1F3B9CB400CFDBDE /* Security */ = {
+		158D67811F3BA00200CFDBDE /* Netwroking */ = {
 			isa = PBXGroup;
 			children = (
-				158D673E1F3B9CB400CFDBDE /* SecurityFile.h */,
-				158D673F1F3B9CB400CFDBDE /* SecurityFile.m */,
+				158D67821F3BA00200CFDBDE /* NetworkingFile.h */,
+				158D67831F3BA00200CFDBDE /* NetworkingFile.m */,
 			);
-			name = Security;
-			path = MyFramework/Security;
+			path = Netwroking;
 			sourceTree = "<group>";
 		};
-		158D67401F3B9CB400CFDBDE /* Utils */ = {
+		158D67841F3BA00200CFDBDE /* Security */ = {
 			isa = PBXGroup;
 			children = (
-				158D67411F3B9CB400CFDBDE /* UtilsFile.h */,
-				158D67421F3B9CB400CFDBDE /* UtilsFile.m */,
+				158D67851F3BA00200CFDBDE /* SecurityFile.h */,
+				158D67861F3BA00200CFDBDE /* SecurityFile.m */,
 			);
-			name = Utils;
-			path = MyFramework/Utils;
+			path = Security;
+			sourceTree = "<group>";
+		};
+		158D67871F3BA00200CFDBDE /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				158D67881F3BA00200CFDBDE /* UtilsFile.h */,
+				158D67891F3BA00200CFDBDE /* UtilsFile.m */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 		1922ED2492F2CD5F07BAE0E198724705 /* Frameworks */ = {
@@ -671,13 +679,8 @@
 		53EE9D2D40B0AC4F4203D7C69F5A2132 /* MyFramework */ = {
 			isa = PBXGroup;
 			children = (
-				158D672E1F3B9CB400CFDBDE /* Core */,
-				158D67311F3B9CB400CFDBDE /* Data */,
-				158D67361F3B9CB400CFDBDE /* Documents */,
-				158D67391F3B9CB400CFDBDE /* Netwroking */,
+				158D67751F3BA00200CFDBDE /* Classes */,
 				158D673C1F3B9CB400CFDBDE /* ReplaceMe.m */,
-				158D673D1F3B9CB400CFDBDE /* Security */,
-				158D67401F3B9CB400CFDBDE /* Utils */,
 				208B1AC62FEA72ABD2BEF51CDB542A93 /* Support Files */,
 			);
 			name = MyFramework;
@@ -936,7 +939,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				158D67A11F3BA22C00CFDBDE /* SecurityFile.h in Headers */,
+				158D67A01F3BA22700CFDBDE /* NetworkingFile.h in Headers */,
 				398FBACA2F790BAAFEE51D94FBAF6866 /* MyFramework-umbrella.h in Headers */,
+				158D679D1F3BA21800CFDBDE /* CoreFile.h in Headers */,
+				158D679E1F3BA21B00CFDBDE /* DataFile.h in Headers */,
+				158D679F1F3BA22100CFDBDE /* DocumentFile.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -969,8 +977,6 @@
 			files = (
 				214F8D721940BD9AA4BAB0E5AE2E8A1C /* EXPBlockDefinedMatcher.h in Headers */,
 				5D4700451D6C9DFC6D5FFB86671EA2AC /* EXPDefines.h in Headers */,
-				158D674A1F3B9CB400CFDBDE /* NetworkingFile.h in Headers */,
-				158D674D1F3B9CB400CFDBDE /* SecurityFile.h in Headers */,
 				39461DAB3DE2637F4AE2BA94F19DCF2B /* EXPDoubleTuple.h in Headers */,
 				0E86BBA3A65849769B47995A5E91C881 /* Expecta-umbrella.h in Headers */,
 				A0B36C4898CD3A75ED692AE1B945EFED /* Expecta.h in Headers */,
@@ -979,13 +985,10 @@
 				FD39ACDEA6F0B6D6DBB730547CE18BA6 /* EXPExpect.h in Headers */,
 				4CA4F8F64565882DCFA174872749C0EF /* EXPFloatTuple.h in Headers */,
 				1009851D0C0B3FCBC574C414CC4D31B0 /* EXPMatcher.h in Headers */,
-				158D67481F3B9CB400CFDBDE /* DocumentFile.h in Headers */,
 				E61E28B50602F353D95914765667969F /* EXPMatcherHelpers.h in Headers */,
 				4861F2FFD5A4306E7B7BD3CD0D8199AC /* EXPMatchers+beCloseTo.h in Headers */,
 				B1487AC2DD502CCE46631C123E047D28 /* EXPMatchers+beFalsy.h in Headers */,
-				158D67431F3B9CB400CFDBDE /* CoreFile.h in Headers */,
-				158D67451F3B9CB400CFDBDE /* DataFile.h in Headers */,
-				158D674F1F3B9CB400CFDBDE /* UtilsFile.h in Headers */,
+				158D67951F3BA00200CFDBDE /* UtilsFile.h in Headers */,
 				8C14546CF091E0A5B1F0F37F576990B8 /* EXPMatchers+beginWith.h in Headers */,
 				7E81176499F06E523CE3039B08AB5051 /* EXPMatchers+beGreaterThan.h in Headers */,
 				BBC7D292529B7E5DB953171190E321AF /* EXPMatchers+beGreaterThanOrEqualTo.h in Headers */,
@@ -1224,6 +1227,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				158D679A1F3BA02100CFDBDE /* NetworkingFile.m in Sources */,
+				158D679B1F3BA02800CFDBDE /* SecurityFile.m in Sources */,
+				158D67991F3BA01B00CFDBDE /* DocumentFile.m in Sources */,
+				158D67981F3BA01400CFDBDE /* DataFile.m in Sources */,
+				158D67971F3BA00C00CFDBDE /* CoreFile.m in Sources */,
 				F2C0B6C32A38F54D9D783BEF4E0F81A6 /* MyFramework-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1283,6 +1291,7 @@
 				BFC7D32CFE8200730837306AFF61E5AD /* EXPExpect.m in Sources */,
 				5E4F55D319FF771D658CCE335E7CB498 /* EXPFloatTuple.m in Sources */,
 				150503B99F77D3D8897EFFC68C09A351 /* EXPMatcherHelpers.m in Sources */,
+				158D678E1F3BA00200CFDBDE /* Model.xcdatamodeld in Sources */,
 				9A0ADF06F5B6BC3A70EDE1285BAF9346 /* EXPMatchers+beCloseTo.m in Sources */,
 				8220368E5F7EA70947BAD2B6F216C61B /* EXPMatchers+beFalsy.m in Sources */,
 				A037AD9C808583B3EC9F49B3EEDA588A /* EXPMatchers+beginWith.m in Sources */,
@@ -1292,7 +1301,6 @@
 				778C9F1A1715E05313578E39AB46726E /* EXPMatchers+beInstanceOf.m in Sources */,
 				508B6D0572C0C3B4A3E019B814595D4A /* EXPMatchers+beInTheRangeOf.m in Sources */,
 				DF883524C3F35145D74166C01BCFCFC3 /* EXPMatchers+beKindOf.m in Sources */,
-				158D67471F3B9CB400CFDBDE /* Model.xcdatamodeld in Sources */,
 				47D171E32EAE4FB61A9971B9BC00226D /* EXPMatchers+beLessThan.m in Sources */,
 				CE7E4C141657D23213C7FAE616D7FA75 /* EXPMatchers+beLessThanOrEqualTo.m in Sources */,
 				CD66900813CFE317343F5A4053AE73EC /* EXPMatchers+beNil.m in Sources */,
@@ -1302,21 +1310,16 @@
 				51FCC9EDD6B60BF63B5EF7CAC94CCF23 /* EXPMatchers+conformTo.m in Sources */,
 				9EA076D25036A0F4765FF3FB57CF4A6A /* EXPMatchers+contain.m in Sources */,
 				285C6F6BE59E632CB219CD98B4EDC1AA /* EXPMatchers+endWith.m in Sources */,
-				158D67441F3B9CB400CFDBDE /* CoreFile.m in Sources */,
 				E6D59CAA2A6E134A4643254406ED11F2 /* EXPMatchers+equal.m in Sources */,
 				C676818DADAC76EE2FDC5533CBF3648A /* EXPMatchers+haveCountOf.m in Sources */,
-				158D674E1F3B9CB400CFDBDE /* SecurityFile.m in Sources */,
 				BC530A8234C398F9F3AD1A1D41670B65 /* EXPMatchers+match.m in Sources */,
-				158D67491F3B9CB400CFDBDE /* DocumentFile.m in Sources */,
 				9F51005FE4BF10FA9906B02DAD609C6E /* EXPMatchers+postNotification.m in Sources */,
 				361B58CE2A28E03CA83A73617ED739F2 /* EXPMatchers+raise.m in Sources */,
 				870CAAA15357EFF9E1619737DEE56067 /* EXPMatchers+raiseWithReason.m in Sources */,
-				158D674B1F3B9CB400CFDBDE /* NetworkingFile.m in Sources */,
 				A0612BA825C81CE45266B214DF3A8BCB /* EXPMatchers+respondTo.m in Sources */,
-				158D67461F3B9CB400CFDBDE /* DataFile.m in Sources */,
 				AE7BBD46BA00A9AC69249ADA56402162 /* EXPUnsupportedObject.m in Sources */,
 				A6CC81FC886EE8FF27EF4DD48D6F8F56 /* NSValue+Expecta.m in Sources */,
-				158D67501F3B9CB400CFDBDE /* UtilsFile.m in Sources */,
+				158D67961F3BA00200CFDBDE /* UtilsFile.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2038,12 +2041,12 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		158D67341F3B9CB400CFDBDE /* Model.xcdatamodeld */ = {
+		158D677C1F3BA00200CFDBDE /* Model.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				158D67351F3B9CB400CFDBDE /* Model.xcdatamodel */,
+				158D677D1F3BA00200CFDBDE /* Model.xcdatamodel */,
 			);
-			currentVersion = 158D67351F3B9CB400CFDBDE /* Model.xcdatamodel */;
+			currentVersion = 158D677D1F3BA00200CFDBDE /* Model.xcdatamodel */;
 			path = Model.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;

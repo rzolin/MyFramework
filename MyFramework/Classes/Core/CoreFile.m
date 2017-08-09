@@ -7,4 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "CoreFile.h"
 
+@implementation CoreFile
+
+
+
+@end

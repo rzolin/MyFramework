@@ -9,5 +9,8 @@
 #ifndef CoreFile_h
 #define CoreFile_h
 
+@interface CoreFile : NSObject
+
+@end
 
 #endif /* CoreFile_h */
