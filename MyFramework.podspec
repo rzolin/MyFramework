@@ -11,7 +11,7 @@ sdk.homepage         = 'https://github.com/rzolin/MyFramework'
 # sdk.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 sdk.license          = { :type => 'MIT', :file => 'LICENSE' }
 sdk.author           = { 'rzolin' => 'rzolin@gmail.com' }
-sdk.source           = { :git => 'https://github.com/rzolin/MyFramework.git', :tag => 0.1.0 }
+sdk.source           = { :git => 'https://github.com/rzolin/MyFramework.git', :tag => 'v0.1.0' }
 
 sdk.ios.deployment_target = '8.0'
 
